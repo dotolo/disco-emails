@@ -32,7 +32,7 @@ the font will then display for all text elements through the template.
 
 ### Notes
 
-The templates where built with being used inside of Pardot. So the *email preference* and *unsubscribe* links are Pardot tags.
+The templates were built with being used inside of Pardot. So the *email preference* and *unsubscribe* links are Pardot tags.
 
 ## Author
 
