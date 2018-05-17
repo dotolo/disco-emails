@@ -4,7 +4,7 @@ These are the new disco email templates that will help align the design across a
 
 ## Built With
 
-* [<HEML>](https://heml.io/) - The markup language used
+* [HEML](https://heml.io/) - The markup language used
 
 You can install <HEML> locally or use there live editor on the website to make changes.
 
@@ -32,7 +32,7 @@ the font will then display for all text elements through the template.
 
 ### Notes
 
-The templates were built with being used inside of Pardot. So the *email preference* and *unsubscribe* links are Pardot tags.
+The templates were built with being used inside of Pardot, so there may need to be some tweaks you will have to make. Also, the *email preference* and *unsubscribe* links are Pardot tags.
 
 ## Author
 
